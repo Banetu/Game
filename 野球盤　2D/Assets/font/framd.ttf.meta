@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a7d33863847c3f8439b8f64e0a6324a1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Franklin Gothic Medium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0db7d4af96138b4e8a60d2f8a3c1841, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
